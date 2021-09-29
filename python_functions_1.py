@@ -20,7 +20,7 @@ def main():
 	
 	show_expo(n) # call the show_expo subroutine
 
-	#run the main function
-	if __name__ == "__main__":
-		main()
+#run the main function
+if __name__ == "__main__":
+	main()
 
