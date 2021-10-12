@@ -10,6 +10,10 @@ print(x)
 x.remove(2.5)
 print(x)
 
+#add an element at the end
+x.append(1.2)
+print(x)
+
 #get a copy of x
 y = x.copy()
 print(y)
